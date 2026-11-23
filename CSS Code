@@ -705,6 +705,14 @@ span.requested {
   color: #C2CBCC;
 }
 
+#dashboard {
+  background: #0A151C;
+  border: 3px solid transparent;
+  box-shadow: none;
+  color: #C2CBCC;
+  border-radius: 8px;
+}
+
 #dashboard.own,
 .dashboard .own {
   background: #0A151C;
